@@ -4,7 +4,7 @@ A responsive and user-friendly Todo application built with **React** and **Tailw
 
 ## 🚀 Live Demo
 
-**Live Demo:** Add your deployed URL here
+[View Live Demo](https://react-todo-list-coral-psi.vercel.app/)
 
 ## 📸 Screenshots
 
@@ -134,27 +134,7 @@ Possible future enhancements include:
 Frontend Developer | React Developer
 
 ````
+⭐ If you found this project useful, feel free to explore the repository.
 
-### One important check before pushing
 
-Make sure the screenshot folder is **outside `src`**, at the root:
 
-```text
-todo-app/
-├── screenshots/
-│   ├── desktopview.png
-│   └── mobileview.png
-├── src/
-├── public/
-├── package.json
-├── vite.config.js
-└── README.md
-````
-
-Then GitHub will correctly render:
-
-```text
-![Todo app desktop view](screenshots/desktopview.png)
-```
-
-**After that, you're ready to push.** Don't keep modifying the README unless you discover an actual missing/wrong detail.
