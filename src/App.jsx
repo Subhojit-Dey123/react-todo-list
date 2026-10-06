@@ -58,7 +58,7 @@ function App() {
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 sm:px-6 sm:py-12">
       <div className="mx-auto w-full max-w-4xl">
-        <div className="overflow-hidden rounded-2xl border border-slate-100 bg-white pb-6 shadow-[0_1px_3px_0_rgba(0,0,0,0.05),0_1px_2px_-1px_rgba(0,0,0,0.05)]">
+        <div className="overflow-hidden rounded-2xl border border-slate-100 bg-white pb-6 shadow-lg">
           <Header />
 
           <TodoForm addTodo={addTodo} />
